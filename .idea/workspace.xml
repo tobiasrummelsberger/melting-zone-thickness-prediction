@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="16d735ef-69d6-4e5f-a299-97a8c12c1864" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/welding_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/welding_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/SVM_training-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/.ipynb_checkpoints/SVM_training-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook/SVM_training.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/SVM_training.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -117,9 +116,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914925" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32914925" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32914925" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
